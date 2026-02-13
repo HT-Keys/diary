@@ -13,6 +13,7 @@
 
 - [2026-02-12_startup.md](./2026-02-12_startup.md)
 - [2026-02-12_discord.md](./2026-02-12_discord.md)
+- [2026-02-13_split_keyboard.md](./2026-02-13_split_keyboard.md)
 
 ---
 
